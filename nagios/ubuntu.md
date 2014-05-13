@@ -1,0 +1,2 @@
+================
+install nagios on ubuntu
