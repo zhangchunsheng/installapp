@@ -1,6 +1,7 @@
 install nagios on ubuntu
 ================
 
+2014-05-13
 1.sudo apt-get install nagios3 nagios-nrpe-plugin
 
 nagiosadmin
